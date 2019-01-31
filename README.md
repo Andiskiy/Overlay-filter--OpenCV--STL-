@@ -1,6 +1,7 @@
 # Overlay filter OpenCV STL
 
 EN
+
 Overlay filters
 1. Image smoothing using various filters.
 2. Morphological image operations; filter thin lines using morphological filters.
@@ -10,6 +11,7 @@ Overlay filters
 6. By the found direct construction of affine transformation and image alignment.
 
 RU
+
 Наложение фильтров
 1.	Сглаживание изображений с помощью различных фильтров.
 2.	Морфологические операции над изображениями, выполнить фильтрацию тонких линий с помощью морфологических фильтров.
